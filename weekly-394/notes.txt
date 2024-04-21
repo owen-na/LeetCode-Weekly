@@ -1,0 +1,2 @@
+got cooked with the second time of using a HashMap
+Looked at problem 2, did not even attempt as of now (4/21/24)
